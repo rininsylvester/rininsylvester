@@ -1,9 +1,62 @@
-- 👋 Hi, I’m @rininsylvester
-- 👀 I’m interested in Network Security and Blockchain
-- 🌱 I’m currently a graduate student at Confed
-- 📫 You can reach me at l.rininsylvester@gmail.com
+<h1 align="center">Hi, I'm Rinin Sylvester 🚀</h1>
+<p align="center">
+  Aspiring Data Engineer • Backend Builder • Cloud & Pipeline Enthusiast  
+</p>
 
-<!---
-rininsylvester/rininsylvester is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=blue"/>
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue"/>
+  <img src="https://img.shields.io/badge/Framework-SpringBoot-brightgreen?style=flat&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data-Airflow-blue?style=flat&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tools-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+</p>
+
+---
+
+### 🧠 About Me
+
+🎓 **PG in Information Communication Technology**  
+📍 Based in Chennai, formerly Canada  
+💻 Tech stack includes: `Java`, `Python`, `Spring Boot`, `MySQL`, `MongoDB`, `Apache Airflow`, `Spark`, `AWS`, `Docker`  
+🚀 Building scalable data pipelines & backend systems  
+🧊 Cold-blooded under pressure. Warm-hearted in code reviews.  
+📈 Currently transitioning into a full-time **Data Engineering** role
+
+---
+
+### 🛠️ Tech Arsenal
+
+| Language | Backend | Data | Cloud | DevOps |
+|----------|---------|------|-------|--------|
+| Python, Java | Spring Boot, FastAPI | MySQL, MongoDB, Snowflake, Airflow, Spark | AWS (S3, Glue, EMR, Redshift) | Docker, Terraform (learning) |
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rininsylvester&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rininsylvester&layout=compact&theme=radical" height="170"/>
+</p>
+
+---
+
+### 🎯 Currently Working On
+
+- 🔄 Automating data workflows using **Apache Airflow**
+- 💡 Building end-to-end data pipelines
+- 🛠️ Deep diving into **Spark**, **Snowflake**, and **AWS**
+
+---
+
+### 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/rininsylvester/)
+- 📧 l.rininsylvester@gmail.com
+
+---
+
+<p align="center"><i>"Write code like Harvey Specter makes deals – clean, fast, and lethal."</i></p>
