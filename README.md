@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rinin Sylvester 🚀</h1>
+<h1 align="center">Hi, I'm Rinin Sylvester </h1>
 <p align="center">
   Product Manager • Backend Builder • Cloud & Pipeline Enthusiast  
 </p>
