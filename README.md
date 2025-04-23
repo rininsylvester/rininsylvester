@@ -29,9 +29,9 @@
 
 ### 🛠️ Tech Arsenal
 
-| Language | Backend | Data | Cloud | DevOps |
-|----------|---------|------|-------|--------|
-| Python, Java | Spring Boot, FastAPI | MySQL, MongoDB, Snowflake, Airflow, Spark | AWS (S3, Glue, EMR, Redshift) | Docker, Terraform (learning) |
+| Language | Backend | Data | Cloud | DevOps | Security |
+|----------|---------|------|-------|--------|----------|
+| Python, Java | Spring Boot, FastAPI | MySQL, MongoDB, Snowflake, Airflow, Spark | AWS (S3, Glue, EMR, Redshift) | Docker, Terraform (learning) | BurpSuite , Wireshark , Nessus , Qualys
 
 ---
 
