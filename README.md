@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Rinin Sylvester 🚀</h1>
 <p align="center">
-  Aspiring Data Engineer • Backend Builder • Cloud & Pipeline Enthusiast  
+  Product Manager • Backend Builder • Cloud & Pipeline Enthusiast  
 </p>
 
 ---
