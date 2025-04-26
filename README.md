@@ -33,10 +33,8 @@ Python	FastAPI, REST APIs	AWS (EC2, S3, IAM)	Docker, Terraform, CI/CD	Burp Suite
 🚨 Practicing Incident Response and Threat Detection Simulations
 
 📫 Let's Connect
-LinkedIn
 
 📧 l.rininsylvester@gmail.com
 
 <p align="center"><i>"Secure your code like your life depends on it. Someday, it just might."</i></p>
-⚡ Quick Thoughts
-"In the world of DevOps and Security, speed without safety is suicide. I'm here to do both — fast and bulletproof."
+
