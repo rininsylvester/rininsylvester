@@ -19,18 +19,9 @@
 
 🛠️ Tech Arsenal
 
-🖥️ Core Skills
-
-Category	Tools
-Language	Python
-Backend	FastAPI, REST APIs
-Cloud	AWS (EC2, S3, IAM)
-DevOps	Docker, Terraform, CI/CD
-
-🛡️ Cybersecurity & AI
-Category	Tools
-Security Tools	Burp Suite, Wireshark, Nessus, Qualys
-AI / LLM Stack	OpenAI API, LangChain, Pinecone, LLMs
+| Language | Backend | Data | Cloud | DevOps | Security | Artifical Intelligence |
+|----------|---------|------|-------|--------|----------|------------------------|
+| Python | FastAPI , REST APIs| MySQL, MongoDB | AWS (EC2 , S3 , IAM ) | Docker, Terraform , CI/CD | BurpSuite , Wireshark , Nessus , Qualys | LLMs , RAGs , GenAI
 
 📈 GitHub Stats
 
