@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rinin Sylvester </h1> <p align="center"> Python Coder • FastAPI Developer • DevOps Practitioner • Cybersecurity Enthusiast </p>
-<p align="center"> <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue"/> <img src="https://img.shields.io/badge/Framework-FastAPI-brightgreen?style=flat&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=flat&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/DevOps-Docker-blue?style=flat&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/DevOps-Terraform-623CE4?style=flat&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/Security-Wireshark-4169E1?style=flat&logo=wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/Security-Nessus-00C7B7?style=flat&logo=tenable&logoColor=white"/> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue"/> <img src="https://img.shields.io/badge/Framework-FastAPI-brightgreen?style=flat&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=flat&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/DevOps-Docker-blue?style=flat&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/DevOps-Terraform-623CE4?style=flat&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/Security-Wireshark-4169E1?style=flat&logo=wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/LLM-LangChain-7B3F00?style=flat&logo=OpenAI&logoColor=white"/> <img src="https://img.shields.io/badge/GenAI-OpenAI-00A67E?style=flat&logo=openai&logoColor=white"/> </p>
 
 
 🧠 About Me
@@ -19,8 +19,8 @@
 
 🛠️ Tech Arsenal
 
-Language	Backend	Cloud	DevOps	Security Tools
-Python	FastAPI, REST APIs	AWS (EC2, S3, IAM)	Docker, Terraform, CI/CD	Burp Suite, Wireshark, Nessus, Qualys, OpenVAS
+Language | Backend | Cloud | DevOps | Security Tools | AI/LLM Stack
+Python | FastAPI, REST APIs | AWS (EC2, S3, IAM) | Docker, Terraform, CI/CD | Burp Suite, Wireshark, Nessus, Qualys | OpenAI API, LangChain, Pinecone, LLMs
 
 📈 GitHub Stats
 
@@ -32,9 +32,9 @@ Python	FastAPI, REST APIs	AWS (EC2, S3, IAM)	Docker, Terraform, CI/CD	Burp Suite
 
 🛠️ Automating DevOps workflows with Docker and Terraform
 
-🔥 Strengthening security postures with BurpSuite and Wireshark
+🔥 Building AI-powered Apps with LangChain and GenAI APIs
 
-🚨 Practicing Incident Response and Threat Detection Simulations
+🔒 Practicing ethical hacking, threat analysis, and incident response simulations
 
 📫 Let's Connect
 
