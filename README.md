@@ -21,9 +21,13 @@
 
 Language	Backend	Cloud	DevOps	Security Tools
 Python	FastAPI, REST APIs	AWS (EC2, S3, IAM)	Docker, Terraform, CI/CD	Burp Suite, Wireshark, Nessus, Qualys, OpenVAS
+
 📈 GitHub Stats
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rininsylvester&show_icons=true&theme=radical" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rininsylvester&layout=compact&theme=radical" height="170"/> </p>
+
 🎯 Currently Working On
+
 🏗️ Building production-grade APIs using FastAPI + AWS
 
 🛠️ Automating DevOps workflows with Docker and Terraform
