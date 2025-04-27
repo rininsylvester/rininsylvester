@@ -34,9 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rininsylvester&layout=compact&theme=radical&langs_count=8&hide_border=true" height="180" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=rininsylvester&theme=radical&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
 
 🎯 Currently Working On
 
