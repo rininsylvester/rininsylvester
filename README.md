@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rinin Sylvester </h1> <p align="center"> Python Coder • FastAPI Developer • DevOps Practitioner • Cybersecurity Enthusiast  • LLM/GenAI Researcher</p>
+<h1 align="center">Hi, I'm Rinin Sylvester </h1> <p align="center"> Programmmer • Product Owner • DevOps Practitioner • Cybersecurity Enthusiast  • LLM/GenAI Researcher</p>
 <p align="center"> <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue"/> <img src="https://img.shields.io/badge/Framework-FastAPI-brightgreen?style=flat&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=flat&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/DevOps-Docker-blue?style=flat&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/DevOps-Terraform-623CE4?style=flat&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/Security-Wireshark-4169E1?style=flat&logo=wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/LLM-LangChain-7B3F00?style=flat&logo=OpenAI&logoColor=white"/> <img src="https://img.shields.io/badge/GenAI-OpenAI-00A67E?style=flat&logo=openai&logoColor=white"/> </p>
 
 
@@ -21,7 +21,7 @@
 
 | Language | Backend | Data | Cloud | DevOps | Security | Artifical Intelligence |
 |----------|---------|------|-------|--------|----------|------------------------|
-| Python | FastAPI , REST APIs| MySQL, MongoDB | AWS (EC2 , S3 , IAM ) | Docker, Terraform , CI/CD | BurpSuite , Wireshark , Nessus , Qualys | LLMs , RAGs , GenAI
+| Python , Java | Spring Boot , FastAPI , REST APIs| MySQL, MongoDB | AWS (EC2 , S3 , IAM ) | Docker, Terraform , CI/CD | BurpSuite , Wireshark , Nessus , Qualys | LLMs , RAGs , GenAI
 
 📈 GitHub Stats
 
