@@ -25,7 +25,14 @@
 
 📈 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rininsylvester&show_icons=true&theme=radical" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rininsylvester&layout=compact&theme=radical" height="170"/> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rininsylvester&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rininsylvester&show_icons=true&theme=radical&hide_title=true&hide_rank=false&include_all_commits=true&count_private=true&hide_border=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rininsylvester&layout=compact&theme=radical&langs_count=8&hide_border=true" height="180" alt="Top Languages"/>
+</p>
 
 🎯 Currently Working On
 
