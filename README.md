@@ -21,7 +21,7 @@
 
 | Language | Backend | Data | Cloud | DevOps | Security | Artifical Intelligence |
 |----------|---------|------|-------|--------|----------|------------------------|
-| Python , Java | Spring Boot , FastAPI , REST APIs| MySQL, MongoDB | AWS (EC2 , S3 , IAM ) | Docker, Terraform , CI/CD | BurpSuite , Wireshark , Nessus , Qualys | LLMs , RAGs , GenAI
+| Python  | FastAPI , REST APIs| MySQL, MongoDB | AWS (EC2 , S3 , IAM ) | Docker, Terraform , CI/CD | BurpSuite , Wireshark , Nessus , Qualys | LLMs , RAGs , GenAI
 
 📈 GitHub Stats
 
