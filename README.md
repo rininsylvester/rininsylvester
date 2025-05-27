@@ -4,7 +4,7 @@
 
 🧠 About Me
 
-🎓 PG in Information Communication Technology with a killer GPA of 3.94 and B.E Computer Science and Engineering
+🎓 PG in Information Communication Technology and B.E Computer Science and Engineering
 
 📍 Based in Chennai  , formerly Dryden , Canada 🍁 
 
